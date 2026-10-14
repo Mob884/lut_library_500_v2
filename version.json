@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0.0",
+  "min_supported_version": "1.0.0",
+  "force_update": false,
+  "update_message": "A new version of LutPoint is available. Please update to continue.",
+  "store_url": "https://play.google.com/store/apps/details?id=com.lutforge.luts_app"
+}
