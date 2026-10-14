@@ -1,6 +1,6 @@
 {
  "category": "noir",
- "base_url": "https://YOUR_HOST.com/luts/",
+ "base_url": "https://raw.githubusercontent.com/Mob884/lut_library_500_v2/master/",
  "presets": [
   {
    "id": "noir_001",
@@ -9,7 +9,7 @@
    "preview": "previews/noir/noir_mono_soul_01.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Mono Soul \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Mono Soul — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -45,7 +45,7 @@
    "preview": "previews/noir/noir_ink_&_light_01.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Ink & Light \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ink & Light — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -81,7 +81,7 @@
    "preview": "previews/noir/noir_shadow_play_01.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Shadow Play \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Shadow Play — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -117,7 +117,7 @@
    "preview": "previews/noir/noir_graphite_01.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Graphite \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Graphite — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -153,7 +153,7 @@
    "preview": "previews/noir/noir_silver_gelatin_01.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Silver Gelatin \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Silver Gelatin — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -189,7 +189,7 @@
    "preview": "previews/noir/noir_noir_nights_01.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Noir Nights \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Noir Nights — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -225,7 +225,7 @@
    "preview": "previews/noir/noir_contrast_study_01.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Contrast Study \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Contrast Study — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -261,7 +261,7 @@
    "preview": "previews/noir/noir_pale_moon_01.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Pale Moon \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pale Moon — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -297,7 +297,7 @@
    "preview": "previews/noir/noir_mono_soul_02.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Mono Soul \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Mono Soul — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -333,7 +333,7 @@
    "preview": "previews/noir/noir_ink_&_light_02.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Ink & Light \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ink & Light — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -369,7 +369,7 @@
    "preview": "previews/noir/noir_shadow_play_02.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Shadow Play \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Shadow Play — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -405,7 +405,7 @@
    "preview": "previews/noir/noir_graphite_02.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Graphite \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Graphite — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -441,7 +441,7 @@
    "preview": "previews/noir/noir_silver_gelatin_02.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Silver Gelatin \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Silver Gelatin — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -477,7 +477,7 @@
    "preview": "previews/noir/noir_noir_nights_02.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Noir Nights \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Noir Nights — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -513,7 +513,7 @@
    "preview": "previews/noir/noir_contrast_study_02.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Contrast Study \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Contrast Study — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -549,7 +549,7 @@
    "preview": "previews/noir/noir_pale_moon_02.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Pale Moon \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pale Moon — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -585,7 +585,7 @@
    "preview": "previews/noir/noir_mono_soul_03.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Mono Soul \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Mono Soul — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -621,7 +621,7 @@
    "preview": "previews/noir/noir_ink_&_light_03.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Ink & Light \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ink & Light — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -657,7 +657,7 @@
    "preview": "previews/noir/noir_shadow_play_03.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Shadow Play \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Shadow Play — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -693,7 +693,7 @@
    "preview": "previews/noir/noir_graphite_03.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Graphite \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Graphite — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -729,7 +729,7 @@
    "preview": "previews/noir/noir_silver_gelatin_03.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Silver Gelatin \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Silver Gelatin — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -765,7 +765,7 @@
    "preview": "previews/noir/noir_noir_nights_03.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Noir Nights \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Noir Nights — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -801,7 +801,7 @@
    "preview": "previews/noir/noir_contrast_study_03.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Contrast Study \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Contrast Study — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -837,7 +837,7 @@
    "preview": "previews/noir/noir_pale_moon_03.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Pale Moon \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pale Moon — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -873,7 +873,7 @@
    "preview": "previews/noir/noir_mono_soul_04.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Mono Soul \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Mono Soul — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -909,7 +909,7 @@
    "preview": "previews/noir/noir_ink_&_light_04.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Ink & Light \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ink & Light — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -945,7 +945,7 @@
    "preview": "previews/noir/noir_shadow_play_04.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Shadow Play \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Shadow Play — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -981,7 +981,7 @@
    "preview": "previews/noir/noir_graphite_04.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Graphite \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Graphite — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1017,7 +1017,7 @@
    "preview": "previews/noir/noir_silver_gelatin_04.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Silver Gelatin \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Silver Gelatin — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1053,7 +1053,7 @@
    "preview": "previews/noir/noir_noir_nights_04.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Noir Nights \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Noir Nights — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1089,7 +1089,7 @@
    "preview": "previews/noir/noir_contrast_study_04.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Contrast Study \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Contrast Study — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1125,7 +1125,7 @@
    "preview": "previews/noir/noir_pale_moon_04.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Pale Moon \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pale Moon — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1161,7 +1161,7 @@
    "preview": "previews/noir/noir_mono_soul_05.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Mono Soul \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Mono Soul — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1197,7 +1197,7 @@
    "preview": "previews/noir/noir_ink_&_light_05.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Ink & Light \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ink & Light — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1233,7 +1233,7 @@
    "preview": "previews/noir/noir_shadow_play_05.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Shadow Play \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Shadow Play — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1269,7 +1269,7 @@
    "preview": "previews/noir/noir_graphite_05.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Graphite \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Graphite — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1305,7 +1305,7 @@
    "preview": "previews/noir/noir_silver_gelatin_05.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Silver Gelatin \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Silver Gelatin — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1341,7 +1341,7 @@
    "preview": "previews/noir/noir_noir_nights_05.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Noir Nights \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Noir Nights — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1377,7 +1377,7 @@
    "preview": "previews/noir/noir_contrast_study_05.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Contrast Study \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Contrast Study — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1413,7 +1413,7 @@
    "preview": "previews/noir/noir_pale_moon_05.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Pale Moon \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pale Moon — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1449,7 +1449,7 @@
    "preview": "previews/noir/noir_mono_soul_06.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Mono Soul \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Mono Soul — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1485,7 +1485,7 @@
    "preview": "previews/noir/noir_ink_&_light_06.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Ink & Light \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ink & Light — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1521,7 +1521,7 @@
    "preview": "previews/noir/noir_shadow_play_06.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Shadow Play \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Shadow Play — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1557,7 +1557,7 @@
    "preview": "previews/noir/noir_graphite_06.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Graphite \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Graphite — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1593,7 +1593,7 @@
    "preview": "previews/noir/noir_silver_gelatin_06.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Silver Gelatin \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Silver Gelatin — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1629,7 +1629,7 @@
    "preview": "previews/noir/noir_noir_nights_06.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Noir Nights \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Noir Nights — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1665,7 +1665,7 @@
    "preview": "previews/noir/noir_contrast_study_06.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Contrast Study \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Contrast Study — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1701,7 +1701,7 @@
    "preview": "previews/noir/noir_pale_moon_06.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Pale Moon \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pale Moon — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1737,7 +1737,7 @@
    "preview": "previews/noir/noir_mono_soul_07.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Mono Soul \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Mono Soul — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",
@@ -1773,7 +1773,7 @@
    "preview": "previews/noir/noir_ink_&_light_07.jpg",
    "category": "noir",
    "subcategory": "black & white",
-   "description": "Ink & Light \u2014 a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ink & Light — a noir color grade (black & white). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "black and white",
     "bnw",

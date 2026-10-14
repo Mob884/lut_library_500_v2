@@ -1,6 +1,6 @@
 {
  "category": "sunset",
- "base_url": "https://YOUR_HOST.com/luts/",
+ "base_url": "https://raw.githubusercontent.com/Mob884/lut_library_500_v2/master/",
  "presets": [
   {
    "id": "sunset_001",
@@ -9,7 +9,7 @@
    "preview": "previews/sunset/sunset_horizon_fire_01.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Horizon Fire \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Horizon Fire — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -43,7 +43,7 @@
    "preview": "previews/sunset/sunset_dusk_rush_01.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Dusk Rush \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusk Rush — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -77,7 +77,7 @@
    "preview": "previews/sunset/sunset_pink_hour_01.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Pink Hour \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pink Hour — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -111,7 +111,7 @@
    "preview": "previews/sunset/sunset_burning_sky_01.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Burning Sky \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Burning Sky — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "burning sky",
     "color grading",
@@ -145,7 +145,7 @@
    "preview": "previews/sunset/sunset_twilight_01.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Twilight \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Twilight — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -179,7 +179,7 @@
    "preview": "previews/sunset/sunset_solar_flare_01.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Solar Flare \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Solar Flare — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -213,7 +213,7 @@
    "preview": "previews/sunset/sunset_evening_glow_01.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Evening Glow \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Evening Glow — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -247,7 +247,7 @@
    "preview": "previews/sunset/sunset_last_light_01.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Last Light \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Last Light — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -281,7 +281,7 @@
    "preview": "previews/sunset/sunset_horizon_fire_02.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Horizon Fire \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Horizon Fire — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -315,7 +315,7 @@
    "preview": "previews/sunset/sunset_dusk_rush_02.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Dusk Rush \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusk Rush — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -349,7 +349,7 @@
    "preview": "previews/sunset/sunset_pink_hour_02.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Pink Hour \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pink Hour — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -383,7 +383,7 @@
    "preview": "previews/sunset/sunset_burning_sky_02.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Burning Sky \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Burning Sky — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "burning sky",
     "color grading",
@@ -417,7 +417,7 @@
    "preview": "previews/sunset/sunset_twilight_02.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Twilight \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Twilight — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -451,7 +451,7 @@
    "preview": "previews/sunset/sunset_solar_flare_02.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Solar Flare \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Solar Flare — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -485,7 +485,7 @@
    "preview": "previews/sunset/sunset_evening_glow_02.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Evening Glow \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Evening Glow — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -519,7 +519,7 @@
    "preview": "previews/sunset/sunset_last_light_02.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Last Light \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Last Light — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -553,7 +553,7 @@
    "preview": "previews/sunset/sunset_horizon_fire_03.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Horizon Fire \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Horizon Fire — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -587,7 +587,7 @@
    "preview": "previews/sunset/sunset_dusk_rush_03.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Dusk Rush \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusk Rush — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -621,7 +621,7 @@
    "preview": "previews/sunset/sunset_pink_hour_03.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Pink Hour \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pink Hour — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -655,7 +655,7 @@
    "preview": "previews/sunset/sunset_burning_sky_03.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Burning Sky \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Burning Sky — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "burning sky",
     "color grading",
@@ -689,7 +689,7 @@
    "preview": "previews/sunset/sunset_twilight_03.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Twilight \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Twilight — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -723,7 +723,7 @@
    "preview": "previews/sunset/sunset_solar_flare_03.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Solar Flare \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Solar Flare — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -757,7 +757,7 @@
    "preview": "previews/sunset/sunset_evening_glow_03.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Evening Glow \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Evening Glow — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -791,7 +791,7 @@
    "preview": "previews/sunset/sunset_last_light_03.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Last Light \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Last Light — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -825,7 +825,7 @@
    "preview": "previews/sunset/sunset_horizon_fire_04.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Horizon Fire \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Horizon Fire — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -859,7 +859,7 @@
    "preview": "previews/sunset/sunset_dusk_rush_04.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Dusk Rush \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusk Rush — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -893,7 +893,7 @@
    "preview": "previews/sunset/sunset_pink_hour_04.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Pink Hour \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pink Hour — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -927,7 +927,7 @@
    "preview": "previews/sunset/sunset_burning_sky_04.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Burning Sky \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Burning Sky — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "burning sky",
     "color grading",
@@ -961,7 +961,7 @@
    "preview": "previews/sunset/sunset_twilight_04.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Twilight \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Twilight — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -995,7 +995,7 @@
    "preview": "previews/sunset/sunset_solar_flare_04.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Solar Flare \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Solar Flare — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1029,7 +1029,7 @@
    "preview": "previews/sunset/sunset_evening_glow_04.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Evening Glow \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Evening Glow — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1063,7 +1063,7 @@
    "preview": "previews/sunset/sunset_last_light_04.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Last Light \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Last Light — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1097,7 +1097,7 @@
    "preview": "previews/sunset/sunset_horizon_fire_05.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Horizon Fire \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Horizon Fire — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1131,7 +1131,7 @@
    "preview": "previews/sunset/sunset_dusk_rush_05.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Dusk Rush \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusk Rush — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1165,7 +1165,7 @@
    "preview": "previews/sunset/sunset_pink_hour_05.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Pink Hour \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pink Hour — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1199,7 +1199,7 @@
    "preview": "previews/sunset/sunset_burning_sky_05.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Burning Sky \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Burning Sky — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "burning sky",
     "color grading",
@@ -1233,7 +1233,7 @@
    "preview": "previews/sunset/sunset_twilight_05.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Twilight \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Twilight — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1267,7 +1267,7 @@
    "preview": "previews/sunset/sunset_solar_flare_05.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Solar Flare \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Solar Flare — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1301,7 +1301,7 @@
    "preview": "previews/sunset/sunset_evening_glow_05.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Evening Glow \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Evening Glow — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1335,7 +1335,7 @@
    "preview": "previews/sunset/sunset_last_light_05.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Last Light \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Last Light — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1369,7 +1369,7 @@
    "preview": "previews/sunset/sunset_horizon_fire_06.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Horizon Fire \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Horizon Fire — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1403,7 +1403,7 @@
    "preview": "previews/sunset/sunset_dusk_rush_06.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Dusk Rush \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusk Rush — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1437,7 +1437,7 @@
    "preview": "previews/sunset/sunset_pink_hour_06.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Pink Hour \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Pink Hour — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1471,7 +1471,7 @@
    "preview": "previews/sunset/sunset_burning_sky_06.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Burning Sky \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Burning Sky — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "burning sky",
     "color grading",
@@ -1505,7 +1505,7 @@
    "preview": "previews/sunset/sunset_twilight_06.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Twilight \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Twilight — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1539,7 +1539,7 @@
    "preview": "previews/sunset/sunset_solar_flare_06.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Solar Flare \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Solar Flare — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1573,7 +1573,7 @@
    "preview": "previews/sunset/sunset_evening_glow_06.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Evening Glow \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Evening Glow — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1607,7 +1607,7 @@
    "preview": "previews/sunset/sunset_last_light_06.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Last Light \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Last Light — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1641,7 +1641,7 @@
    "preview": "previews/sunset/sunset_horizon_fire_07.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Horizon Fire \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Horizon Fire — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",
@@ -1675,7 +1675,7 @@
    "preview": "previews/sunset/sunset_dusk_rush_07.jpg",
    "category": "sunset",
    "subcategory": "warm",
-   "description": "Dusk Rush \u2014 a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusk Rush — a sunset color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "dusk",

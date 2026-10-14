@@ -1,6 +1,6 @@
 {
  "category": "warm",
- "base_url": "https://YOUR_HOST.com/luts/",
+ "base_url": "https://raw.githubusercontent.com/Mob884/lut_library_500_v2/master/",
  "presets": [
   {
    "id": "warm_001",
@@ -9,7 +9,7 @@
    "preview": "previews/warm/warm_golden_hour_01.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Golden Hour \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Hour — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -42,7 +42,7 @@
    "preview": "previews/warm/warm_amber_glow_01.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Amber Glow \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Amber Glow — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "amber glow",
     "color grading",
@@ -76,7 +76,7 @@
    "preview": "previews/warm/warm_campfire_01.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Campfire \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Campfire — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "campfire",
     "color grading",
@@ -110,7 +110,7 @@
    "preview": "previews/warm/warm_honey_light_01.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Honey Light \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Honey Light — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -144,7 +144,7 @@
    "preview": "previews/warm/warm_desert_sun_01.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Desert Sun \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Desert Sun — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -178,7 +178,7 @@
    "preview": "previews/warm/warm_cozy_corner_01.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Cozy Corner \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cozy Corner — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -212,7 +212,7 @@
    "preview": "previews/warm/warm_autumn_01.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Autumn \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Autumn — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "autumn",
     "color grading",
@@ -246,7 +246,7 @@
    "preview": "previews/warm/warm_ember_01.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Ember \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ember — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -280,7 +280,7 @@
    "preview": "previews/warm/warm_golden_hour_02.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Golden Hour \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Hour — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -313,7 +313,7 @@
    "preview": "previews/warm/warm_amber_glow_02.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Amber Glow \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Amber Glow — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "amber glow",
     "color grading",
@@ -347,7 +347,7 @@
    "preview": "previews/warm/warm_campfire_02.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Campfire \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Campfire — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "campfire",
     "color grading",
@@ -381,7 +381,7 @@
    "preview": "previews/warm/warm_honey_light_02.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Honey Light \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Honey Light — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -415,7 +415,7 @@
    "preview": "previews/warm/warm_desert_sun_02.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Desert Sun \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Desert Sun — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -449,7 +449,7 @@
    "preview": "previews/warm/warm_cozy_corner_02.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Cozy Corner \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cozy Corner — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -483,7 +483,7 @@
    "preview": "previews/warm/warm_autumn_02.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Autumn \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Autumn — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "autumn",
     "color grading",
@@ -517,7 +517,7 @@
    "preview": "previews/warm/warm_ember_02.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Ember \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ember — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -551,7 +551,7 @@
    "preview": "previews/warm/warm_golden_hour_03.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Golden Hour \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Hour — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -584,7 +584,7 @@
    "preview": "previews/warm/warm_amber_glow_03.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Amber Glow \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Amber Glow — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "amber glow",
     "color grading",
@@ -618,7 +618,7 @@
    "preview": "previews/warm/warm_campfire_03.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Campfire \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Campfire — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "campfire",
     "color grading",
@@ -652,7 +652,7 @@
    "preview": "previews/warm/warm_honey_light_03.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Honey Light \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Honey Light — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -686,7 +686,7 @@
    "preview": "previews/warm/warm_desert_sun_03.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Desert Sun \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Desert Sun — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -720,7 +720,7 @@
    "preview": "previews/warm/warm_cozy_corner_03.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Cozy Corner \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cozy Corner — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -754,7 +754,7 @@
    "preview": "previews/warm/warm_autumn_03.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Autumn \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Autumn — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "autumn",
     "color grading",
@@ -788,7 +788,7 @@
    "preview": "previews/warm/warm_ember_03.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Ember \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ember — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -822,7 +822,7 @@
    "preview": "previews/warm/warm_golden_hour_04.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Golden Hour \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Hour — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -855,7 +855,7 @@
    "preview": "previews/warm/warm_amber_glow_04.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Amber Glow \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Amber Glow — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "amber glow",
     "color grading",
@@ -889,7 +889,7 @@
    "preview": "previews/warm/warm_campfire_04.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Campfire \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Campfire — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "campfire",
     "color grading",
@@ -923,7 +923,7 @@
    "preview": "previews/warm/warm_honey_light_04.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Honey Light \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Honey Light — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -957,7 +957,7 @@
    "preview": "previews/warm/warm_desert_sun_04.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Desert Sun \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Desert Sun — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -991,7 +991,7 @@
    "preview": "previews/warm/warm_cozy_corner_04.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Cozy Corner \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cozy Corner — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1025,7 +1025,7 @@
    "preview": "previews/warm/warm_autumn_04.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Autumn \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Autumn — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "autumn",
     "color grading",
@@ -1059,7 +1059,7 @@
    "preview": "previews/warm/warm_ember_04.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Ember \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ember — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1093,7 +1093,7 @@
    "preview": "previews/warm/warm_golden_hour_05.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Golden Hour \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Hour — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1126,7 +1126,7 @@
    "preview": "previews/warm/warm_amber_glow_05.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Amber Glow \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Amber Glow — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "amber glow",
     "color grading",
@@ -1160,7 +1160,7 @@
    "preview": "previews/warm/warm_campfire_05.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Campfire \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Campfire — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "campfire",
     "color grading",
@@ -1194,7 +1194,7 @@
    "preview": "previews/warm/warm_honey_light_05.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Honey Light \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Honey Light — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1228,7 +1228,7 @@
    "preview": "previews/warm/warm_desert_sun_05.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Desert Sun \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Desert Sun — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1262,7 +1262,7 @@
    "preview": "previews/warm/warm_cozy_corner_05.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Cozy Corner \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cozy Corner — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1296,7 +1296,7 @@
    "preview": "previews/warm/warm_autumn_05.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Autumn \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Autumn — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "autumn",
     "color grading",
@@ -1330,7 +1330,7 @@
    "preview": "previews/warm/warm_ember_05.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Ember \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ember — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1364,7 +1364,7 @@
    "preview": "previews/warm/warm_golden_hour_06.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Golden Hour \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Hour — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1397,7 +1397,7 @@
    "preview": "previews/warm/warm_amber_glow_06.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Amber Glow \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Amber Glow — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "amber glow",
     "color grading",
@@ -1431,7 +1431,7 @@
    "preview": "previews/warm/warm_campfire_06.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Campfire \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Campfire — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "campfire",
     "color grading",
@@ -1465,7 +1465,7 @@
    "preview": "previews/warm/warm_honey_light_06.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Honey Light \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Honey Light — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1499,7 +1499,7 @@
    "preview": "previews/warm/warm_desert_sun_06.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Desert Sun \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Desert Sun — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1533,7 +1533,7 @@
    "preview": "previews/warm/warm_cozy_corner_06.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Cozy Corner \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cozy Corner — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1567,7 +1567,7 @@
    "preview": "previews/warm/warm_autumn_06.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Autumn \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Autumn — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "autumn",
     "color grading",
@@ -1601,7 +1601,7 @@
    "preview": "previews/warm/warm_ember_06.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Ember \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ember — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1635,7 +1635,7 @@
    "preview": "previews/warm/warm_golden_hour_07.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Golden Hour \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Hour — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "color grading",
     "cozy",
@@ -1668,7 +1668,7 @@
    "preview": "previews/warm/warm_amber_glow_07.jpg",
    "category": "warm",
    "subcategory": "warm",
-   "description": "Amber Glow \u2014 a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Amber Glow — a warm color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "amber glow",
     "color grading",

@@ -1,6 +1,6 @@
 {
  "category": "urban",
- "base_url": "https://YOUR_HOST.com/luts/",
+ "base_url": "https://raw.githubusercontent.com/Mob884/lut_library_500_v2/master/",
  "presets": [
   {
    "id": "urban_001",
@@ -9,7 +9,7 @@
    "preview": "previews/urban/urban_midnight_city_01.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Midnight City \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Midnight City — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -44,7 +44,7 @@
    "preview": "previews/urban/urban_street_lights_01.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Street Lights \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Street Lights — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -79,7 +79,7 @@
    "preview": "previews/urban/urban_concrete_01.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Concrete \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Concrete — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -114,7 +114,7 @@
    "preview": "previews/urban/urban_neon_rain_01.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Neon Rain \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Neon Rain — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -149,7 +149,7 @@
    "preview": "previews/urban/urban_downtown_01.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Downtown \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Downtown — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -184,7 +184,7 @@
    "preview": "previews/urban/urban_alleyway_01.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Alleyway \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Alleyway — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "alleyway",
     "city",
@@ -219,7 +219,7 @@
    "preview": "previews/urban/urban_metro_01.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Metro \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Metro — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -254,7 +254,7 @@
    "preview": "previews/urban/urban_after_dark_01.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "After Dark \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Dark — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after dark",
     "city",
@@ -289,7 +289,7 @@
    "preview": "previews/urban/urban_midnight_city_02.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Midnight City \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Midnight City — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -324,7 +324,7 @@
    "preview": "previews/urban/urban_street_lights_02.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Street Lights \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Street Lights — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -359,7 +359,7 @@
    "preview": "previews/urban/urban_concrete_02.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Concrete \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Concrete — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -394,7 +394,7 @@
    "preview": "previews/urban/urban_neon_rain_02.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Neon Rain \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Neon Rain — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -429,7 +429,7 @@
    "preview": "previews/urban/urban_downtown_02.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Downtown \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Downtown — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -464,7 +464,7 @@
    "preview": "previews/urban/urban_alleyway_02.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Alleyway \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Alleyway — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "alleyway",
     "city",
@@ -499,7 +499,7 @@
    "preview": "previews/urban/urban_metro_02.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Metro \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Metro — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -534,7 +534,7 @@
    "preview": "previews/urban/urban_after_dark_02.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "After Dark \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Dark — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after dark",
     "city",
@@ -569,7 +569,7 @@
    "preview": "previews/urban/urban_midnight_city_03.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Midnight City \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Midnight City — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -604,7 +604,7 @@
    "preview": "previews/urban/urban_street_lights_03.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Street Lights \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Street Lights — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -639,7 +639,7 @@
    "preview": "previews/urban/urban_concrete_03.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Concrete \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Concrete — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -674,7 +674,7 @@
    "preview": "previews/urban/urban_neon_rain_03.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Neon Rain \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Neon Rain — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -709,7 +709,7 @@
    "preview": "previews/urban/urban_downtown_03.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Downtown \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Downtown — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -744,7 +744,7 @@
    "preview": "previews/urban/urban_alleyway_03.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Alleyway \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Alleyway — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "alleyway",
     "city",
@@ -779,7 +779,7 @@
    "preview": "previews/urban/urban_metro_03.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Metro \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Metro — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -814,7 +814,7 @@
    "preview": "previews/urban/urban_after_dark_03.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "After Dark \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Dark — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after dark",
     "city",
@@ -849,7 +849,7 @@
    "preview": "previews/urban/urban_midnight_city_04.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Midnight City \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Midnight City — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -884,7 +884,7 @@
    "preview": "previews/urban/urban_street_lights_04.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Street Lights \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Street Lights — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -919,7 +919,7 @@
    "preview": "previews/urban/urban_concrete_04.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Concrete \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Concrete — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -954,7 +954,7 @@
    "preview": "previews/urban/urban_neon_rain_04.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Neon Rain \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Neon Rain — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -989,7 +989,7 @@
    "preview": "previews/urban/urban_downtown_04.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Downtown \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Downtown — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1024,7 +1024,7 @@
    "preview": "previews/urban/urban_alleyway_04.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Alleyway \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Alleyway — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "alleyway",
     "city",
@@ -1059,7 +1059,7 @@
    "preview": "previews/urban/urban_metro_04.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Metro \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Metro — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1094,7 +1094,7 @@
    "preview": "previews/urban/urban_after_dark_04.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "After Dark \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Dark — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after dark",
     "city",
@@ -1129,7 +1129,7 @@
    "preview": "previews/urban/urban_midnight_city_05.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Midnight City \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Midnight City — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1164,7 +1164,7 @@
    "preview": "previews/urban/urban_street_lights_05.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Street Lights \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Street Lights — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1199,7 +1199,7 @@
    "preview": "previews/urban/urban_concrete_05.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Concrete \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Concrete — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1234,7 +1234,7 @@
    "preview": "previews/urban/urban_neon_rain_05.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Neon Rain \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Neon Rain — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1269,7 +1269,7 @@
    "preview": "previews/urban/urban_downtown_05.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Downtown \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Downtown — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1304,7 +1304,7 @@
    "preview": "previews/urban/urban_alleyway_05.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Alleyway \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Alleyway — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "alleyway",
     "city",
@@ -1339,7 +1339,7 @@
    "preview": "previews/urban/urban_metro_05.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Metro \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Metro — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1374,7 +1374,7 @@
    "preview": "previews/urban/urban_after_dark_05.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "After Dark \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Dark — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after dark",
     "city",
@@ -1409,7 +1409,7 @@
    "preview": "previews/urban/urban_midnight_city_06.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Midnight City \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Midnight City — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1444,7 +1444,7 @@
    "preview": "previews/urban/urban_street_lights_06.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Street Lights \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Street Lights — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1479,7 +1479,7 @@
    "preview": "previews/urban/urban_concrete_06.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Concrete \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Concrete — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1514,7 +1514,7 @@
    "preview": "previews/urban/urban_neon_rain_06.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Neon Rain \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Neon Rain — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1549,7 +1549,7 @@
    "preview": "previews/urban/urban_downtown_06.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Downtown \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Downtown — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1584,7 +1584,7 @@
    "preview": "previews/urban/urban_alleyway_06.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Alleyway \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Alleyway — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "alleyway",
     "city",
@@ -1619,7 +1619,7 @@
    "preview": "previews/urban/urban_metro_06.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Metro \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Metro — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1654,7 +1654,7 @@
    "preview": "previews/urban/urban_after_dark_06.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "After Dark \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Dark — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after dark",
     "city",
@@ -1689,7 +1689,7 @@
    "preview": "previews/urban/urban_midnight_city_07.jpg",
    "category": "urban",
    "subcategory": "neutral",
-   "description": "Midnight City \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Midnight City — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",
@@ -1724,7 +1724,7 @@
    "preview": "previews/urban/urban_street_lights_07.jpg",
    "category": "urban",
    "subcategory": "cool",
-   "description": "Street Lights \u2014 a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Street Lights — a urban color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "city",
     "color grading",

@@ -1,6 +1,6 @@
 {
  "category": "moody",
- "base_url": "https://YOUR_HOST.com/luts/",
+ "base_url": "https://raw.githubusercontent.com/Mob884/lut_library_500_v2/master/",
  "presets": [
   {
    "id": "moody_001",
@@ -9,7 +9,7 @@
    "preview": "previews/moody/moody_after_hours_01.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "After Hours \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Hours — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after hours",
     "atmospheric",
@@ -43,7 +43,7 @@
    "preview": "previews/moody/moody_low_light_01.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Low Light \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Low Light — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -77,7 +77,7 @@
    "preview": "previews/moody/moody_fog_line_01.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Fog Line \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Fog Line — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -111,7 +111,7 @@
    "preview": "previews/moody/moody_heavy_air_01.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Heavy Air \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Heavy Air — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -145,7 +145,7 @@
    "preview": "previews/moody/moody_blue_hour_01.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Blue Hour \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blue Hour — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "blue hour",
@@ -179,7 +179,7 @@
    "preview": "previews/moody/moody_still_water_01.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Still Water \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Still Water — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -213,7 +213,7 @@
    "preview": "previews/moody/moody_grey_veil_01.jpg",
    "category": "moody",
    "subcategory": "warm",
-   "description": "Grey Veil \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Grey Veil — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -247,7 +247,7 @@
    "preview": "previews/moody/moody_night_shift_01.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Night Shift \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Night Shift — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -281,7 +281,7 @@
    "preview": "previews/moody/moody_after_hours_02.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "After Hours \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Hours — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after hours",
     "atmospheric",
@@ -315,7 +315,7 @@
    "preview": "previews/moody/moody_low_light_02.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Low Light \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Low Light — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -349,7 +349,7 @@
    "preview": "previews/moody/moody_fog_line_02.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Fog Line \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Fog Line — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -383,7 +383,7 @@
    "preview": "previews/moody/moody_heavy_air_02.jpg",
    "category": "moody",
    "subcategory": "warm",
-   "description": "Heavy Air \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Heavy Air — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -417,7 +417,7 @@
    "preview": "previews/moody/moody_blue_hour_02.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Blue Hour \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blue Hour — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "blue hour",
@@ -451,7 +451,7 @@
    "preview": "previews/moody/moody_still_water_02.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Still Water \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Still Water — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -485,7 +485,7 @@
    "preview": "previews/moody/moody_grey_veil_02.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Grey Veil \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Grey Veil — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -519,7 +519,7 @@
    "preview": "previews/moody/moody_night_shift_02.jpg",
    "category": "moody",
    "subcategory": "warm",
-   "description": "Night Shift \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Night Shift — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -553,7 +553,7 @@
    "preview": "previews/moody/moody_after_hours_03.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "After Hours \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Hours — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after hours",
     "atmospheric",
@@ -587,7 +587,7 @@
    "preview": "previews/moody/moody_low_light_03.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Low Light \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Low Light — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -621,7 +621,7 @@
    "preview": "previews/moody/moody_fog_line_03.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Fog Line \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Fog Line — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -655,7 +655,7 @@
    "preview": "previews/moody/moody_heavy_air_03.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Heavy Air \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Heavy Air — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -689,7 +689,7 @@
    "preview": "previews/moody/moody_blue_hour_03.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Blue Hour \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blue Hour — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "blue hour",
@@ -723,7 +723,7 @@
    "preview": "previews/moody/moody_still_water_03.jpg",
    "category": "moody",
    "subcategory": "warm",
-   "description": "Still Water \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Still Water — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -757,7 +757,7 @@
    "preview": "previews/moody/moody_grey_veil_03.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Grey Veil \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Grey Veil — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -791,7 +791,7 @@
    "preview": "previews/moody/moody_night_shift_03.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Night Shift \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Night Shift — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -825,7 +825,7 @@
    "preview": "previews/moody/moody_after_hours_04.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "After Hours \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Hours — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after hours",
     "atmospheric",
@@ -859,7 +859,7 @@
    "preview": "previews/moody/moody_low_light_04.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Low Light \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Low Light — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -893,7 +893,7 @@
    "preview": "previews/moody/moody_fog_line_04.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Fog Line \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Fog Line — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -927,7 +927,7 @@
    "preview": "previews/moody/moody_heavy_air_04.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Heavy Air \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Heavy Air — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -961,7 +961,7 @@
    "preview": "previews/moody/moody_blue_hour_04.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Blue Hour \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blue Hour — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "blue hour",
@@ -995,7 +995,7 @@
    "preview": "previews/moody/moody_still_water_04.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Still Water \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Still Water — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1029,7 +1029,7 @@
    "preview": "previews/moody/moody_grey_veil_04.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Grey Veil \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Grey Veil — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1063,7 +1063,7 @@
    "preview": "previews/moody/moody_night_shift_04.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Night Shift \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Night Shift — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1097,7 +1097,7 @@
    "preview": "previews/moody/moody_after_hours_05.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "After Hours \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Hours — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after hours",
     "atmospheric",
@@ -1131,7 +1131,7 @@
    "preview": "previews/moody/moody_low_light_05.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Low Light \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Low Light — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1165,7 +1165,7 @@
    "preview": "previews/moody/moody_fog_line_05.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Fog Line \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Fog Line — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1199,7 +1199,7 @@
    "preview": "previews/moody/moody_heavy_air_05.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Heavy Air \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Heavy Air — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1233,7 +1233,7 @@
    "preview": "previews/moody/moody_blue_hour_05.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Blue Hour \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blue Hour — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "blue hour",
@@ -1267,7 +1267,7 @@
    "preview": "previews/moody/moody_still_water_05.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Still Water \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Still Water — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1301,7 +1301,7 @@
    "preview": "previews/moody/moody_grey_veil_05.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Grey Veil \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Grey Veil — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1335,7 +1335,7 @@
    "preview": "previews/moody/moody_night_shift_05.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Night Shift \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Night Shift — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1369,7 +1369,7 @@
    "preview": "previews/moody/moody_after_hours_06.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "After Hours \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Hours — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after hours",
     "atmospheric",
@@ -1403,7 +1403,7 @@
    "preview": "previews/moody/moody_low_light_06.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Low Light \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Low Light — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1437,7 +1437,7 @@
    "preview": "previews/moody/moody_fog_line_06.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Fog Line \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Fog Line — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1471,7 +1471,7 @@
    "preview": "previews/moody/moody_heavy_air_06.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Heavy Air \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Heavy Air — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1505,7 +1505,7 @@
    "preview": "previews/moody/moody_blue_hour_06.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Blue Hour \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blue Hour — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "blue hour",
@@ -1539,7 +1539,7 @@
    "preview": "previews/moody/moody_still_water_06.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Still Water \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Still Water — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1573,7 +1573,7 @@
    "preview": "previews/moody/moody_grey_veil_06.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Grey Veil \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Grey Veil — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1607,7 +1607,7 @@
    "preview": "previews/moody/moody_night_shift_06.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "Night Shift \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Night Shift — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",
@@ -1641,7 +1641,7 @@
    "preview": "previews/moody/moody_after_hours_07.jpg",
    "category": "moody",
    "subcategory": "cool",
-   "description": "After Hours \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "After Hours — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "after hours",
     "atmospheric",
@@ -1675,7 +1675,7 @@
    "preview": "previews/moody/moody_low_light_07.jpg",
    "category": "moody",
    "subcategory": "neutral",
-   "description": "Low Light \u2014 a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Low Light — a moody color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "atmospheric",
     "cinematic dark",

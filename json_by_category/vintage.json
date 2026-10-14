@@ -1,6 +1,6 @@
 {
  "category": "vintage",
- "base_url": "https://YOUR_HOST.com/luts/",
+ "base_url": "https://raw.githubusercontent.com/Mob884/lut_library_500_v2/master/",
  "presets": [
   {
    "id": "vintage_001",
@@ -9,7 +9,7 @@
    "preview": "previews/vintage/vintage_faded_memory_01.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Faded Memory \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Faded Memory — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -46,7 +46,7 @@
    "preview": "previews/vintage/vintage_retro_grain_01.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Retro Grain \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Retro Grain — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -83,7 +83,7 @@
    "preview": "previews/vintage/vintage_old_reel_01.jpg",
    "category": "vintage",
    "subcategory": "neutral",
-   "description": "Old Reel \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Old Reel — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -120,7 +120,7 @@
    "preview": "previews/vintage/vintage_sepia_dream_01.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Sepia Dream \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Sepia Dream — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -157,7 +157,7 @@
    "preview": "previews/vintage/vintage_analog_heart_01.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Analog Heart \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Analog Heart — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -194,7 +194,7 @@
    "preview": "previews/vintage/vintage_polaroid_01.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Polaroid \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Polaroid — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -231,7 +231,7 @@
    "preview": "previews/vintage/vintage_dusty_road_01.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Dusty Road \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusty Road — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -268,7 +268,7 @@
    "preview": "previews/vintage/vintage_golden_age_01.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Golden Age \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Age — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -305,7 +305,7 @@
    "preview": "previews/vintage/vintage_faded_memory_02.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Faded Memory \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Faded Memory — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -342,7 +342,7 @@
    "preview": "previews/vintage/vintage_retro_grain_02.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Retro Grain \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Retro Grain — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -379,7 +379,7 @@
    "preview": "previews/vintage/vintage_old_reel_02.jpg",
    "category": "vintage",
    "subcategory": "neutral",
-   "description": "Old Reel \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Old Reel — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -416,7 +416,7 @@
    "preview": "previews/vintage/vintage_sepia_dream_02.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Sepia Dream \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Sepia Dream — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -453,7 +453,7 @@
    "preview": "previews/vintage/vintage_analog_heart_02.jpg",
    "category": "vintage",
    "subcategory": "neutral",
-   "description": "Analog Heart \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Analog Heart — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -490,7 +490,7 @@
    "preview": "previews/vintage/vintage_polaroid_02.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Polaroid \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Polaroid — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -527,7 +527,7 @@
    "preview": "previews/vintage/vintage_dusty_road_02.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Dusty Road \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusty Road — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -564,7 +564,7 @@
    "preview": "previews/vintage/vintage_golden_age_02.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Golden Age \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Age — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -601,7 +601,7 @@
    "preview": "previews/vintage/vintage_faded_memory_03.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Faded Memory \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Faded Memory — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -638,7 +638,7 @@
    "preview": "previews/vintage/vintage_retro_grain_03.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Retro Grain \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Retro Grain — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -675,7 +675,7 @@
    "preview": "previews/vintage/vintage_old_reel_03.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Old Reel \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Old Reel — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -712,7 +712,7 @@
    "preview": "previews/vintage/vintage_sepia_dream_03.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Sepia Dream \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Sepia Dream — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -749,7 +749,7 @@
    "preview": "previews/vintage/vintage_analog_heart_03.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Analog Heart \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Analog Heart — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -786,7 +786,7 @@
    "preview": "previews/vintage/vintage_polaroid_03.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Polaroid \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Polaroid — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -823,7 +823,7 @@
    "preview": "previews/vintage/vintage_dusty_road_03.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Dusty Road \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusty Road — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -860,7 +860,7 @@
    "preview": "previews/vintage/vintage_golden_age_03.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Golden Age \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Age — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -897,7 +897,7 @@
    "preview": "previews/vintage/vintage_faded_memory_04.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Faded Memory \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Faded Memory — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -934,7 +934,7 @@
    "preview": "previews/vintage/vintage_retro_grain_04.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Retro Grain \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Retro Grain — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -971,7 +971,7 @@
    "preview": "previews/vintage/vintage_old_reel_04.jpg",
    "category": "vintage",
    "subcategory": "neutral",
-   "description": "Old Reel \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Old Reel — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1008,7 +1008,7 @@
    "preview": "previews/vintage/vintage_sepia_dream_04.jpg",
    "category": "vintage",
    "subcategory": "neutral",
-   "description": "Sepia Dream \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Sepia Dream — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1045,7 +1045,7 @@
    "preview": "previews/vintage/vintage_analog_heart_04.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Analog Heart \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Analog Heart — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1082,7 +1082,7 @@
    "preview": "previews/vintage/vintage_polaroid_04.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Polaroid \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Polaroid — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1119,7 +1119,7 @@
    "preview": "previews/vintage/vintage_dusty_road_04.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Dusty Road \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusty Road — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1156,7 +1156,7 @@
    "preview": "previews/vintage/vintage_golden_age_04.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Golden Age \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Age — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1193,7 +1193,7 @@
    "preview": "previews/vintage/vintage_faded_memory_05.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Faded Memory \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Faded Memory — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1230,7 +1230,7 @@
    "preview": "previews/vintage/vintage_retro_grain_05.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Retro Grain \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Retro Grain — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1267,7 +1267,7 @@
    "preview": "previews/vintage/vintage_old_reel_05.jpg",
    "category": "vintage",
    "subcategory": "neutral",
-   "description": "Old Reel \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Old Reel — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1304,7 +1304,7 @@
    "preview": "previews/vintage/vintage_sepia_dream_05.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Sepia Dream \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Sepia Dream — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1341,7 +1341,7 @@
    "preview": "previews/vintage/vintage_analog_heart_05.jpg",
    "category": "vintage",
    "subcategory": "neutral",
-   "description": "Analog Heart \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Analog Heart — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1378,7 +1378,7 @@
    "preview": "previews/vintage/vintage_polaroid_05.jpg",
    "category": "vintage",
    "subcategory": "neutral",
-   "description": "Polaroid \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Polaroid — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1415,7 +1415,7 @@
    "preview": "previews/vintage/vintage_dusty_road_05.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Dusty Road \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusty Road — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1452,7 +1452,7 @@
    "preview": "previews/vintage/vintage_golden_age_05.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Golden Age \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Age — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1489,7 +1489,7 @@
    "preview": "previews/vintage/vintage_faded_memory_06.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Faded Memory \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Faded Memory — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1526,7 +1526,7 @@
    "preview": "previews/vintage/vintage_retro_grain_06.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Retro Grain \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Retro Grain — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1563,7 +1563,7 @@
    "preview": "previews/vintage/vintage_old_reel_06.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Old Reel \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Old Reel — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1600,7 +1600,7 @@
    "preview": "previews/vintage/vintage_sepia_dream_06.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Sepia Dream \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Sepia Dream — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1637,7 +1637,7 @@
    "preview": "previews/vintage/vintage_analog_heart_06.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Analog Heart \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Analog Heart — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1674,7 +1674,7 @@
    "preview": "previews/vintage/vintage_polaroid_06.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Polaroid \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Polaroid — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1711,7 +1711,7 @@
    "preview": "previews/vintage/vintage_dusty_road_06.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Dusty Road \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Dusty Road — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1748,7 +1748,7 @@
    "preview": "previews/vintage/vintage_golden_age_06.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Golden Age \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Golden Age — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1785,7 +1785,7 @@
    "preview": "previews/vintage/vintage_faded_memory_07.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Faded Memory \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Faded Memory — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",
@@ -1822,7 +1822,7 @@
    "preview": "previews/vintage/vintage_retro_grain_07.jpg",
    "category": "vintage",
    "subcategory": "warm",
-   "description": "Retro Grain \u2014 a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Retro Grain — a vintage color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "70s",
     "80s",

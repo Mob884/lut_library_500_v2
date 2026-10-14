@@ -1,6 +1,6 @@
 {
  "category": "pastel",
- "base_url": "https://YOUR_HOST.com/luts/",
+ "base_url": "https://raw.githubusercontent.com/Mob884/lut_library_500_v2/master/",
  "presets": [
   {
    "id": "pastel_001",
@@ -9,7 +9,7 @@
    "preview": "previews/pastel/pastel_cotton_candy_01.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Cotton Candy \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cotton Candy — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -44,7 +44,7 @@
    "preview": "previews/pastel/pastel_daydream_01.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Daydream \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Daydream — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -79,7 +79,7 @@
    "preview": "previews/pastel/pastel_soft_serve_01.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Soft Serve \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Soft Serve — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -114,7 +114,7 @@
    "preview": "previews/pastel/pastel_blush_01.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Blush \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blush — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -149,7 +149,7 @@
    "preview": "previews/pastel/pastel_milk_tea_01.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Milk Tea \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Milk Tea — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -184,7 +184,7 @@
    "preview": "previews/pastel/pastel_cloud_nine_01.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Cloud Nine \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cloud Nine — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -219,7 +219,7 @@
    "preview": "previews/pastel/pastel_petal_01.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Petal \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Petal — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -254,7 +254,7 @@
    "preview": "previews/pastel/pastel_marshmallow_01.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Marshmallow \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Marshmallow — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -289,7 +289,7 @@
    "preview": "previews/pastel/pastel_cotton_candy_02.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Cotton Candy \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cotton Candy — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -324,7 +324,7 @@
    "preview": "previews/pastel/pastel_daydream_02.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Daydream \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Daydream — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -359,7 +359,7 @@
    "preview": "previews/pastel/pastel_soft_serve_02.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Soft Serve \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Soft Serve — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -394,7 +394,7 @@
    "preview": "previews/pastel/pastel_blush_02.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Blush \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blush — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -429,7 +429,7 @@
    "preview": "previews/pastel/pastel_milk_tea_02.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Milk Tea \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Milk Tea — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -464,7 +464,7 @@
    "preview": "previews/pastel/pastel_cloud_nine_02.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Cloud Nine \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cloud Nine — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -499,7 +499,7 @@
    "preview": "previews/pastel/pastel_petal_02.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Petal \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Petal — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -534,7 +534,7 @@
    "preview": "previews/pastel/pastel_marshmallow_02.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Marshmallow \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Marshmallow — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -569,7 +569,7 @@
    "preview": "previews/pastel/pastel_cotton_candy_03.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Cotton Candy \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cotton Candy — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -604,7 +604,7 @@
    "preview": "previews/pastel/pastel_daydream_03.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Daydream \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Daydream — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -639,7 +639,7 @@
    "preview": "previews/pastel/pastel_soft_serve_03.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Soft Serve \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Soft Serve — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -674,7 +674,7 @@
    "preview": "previews/pastel/pastel_blush_03.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Blush \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blush — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -709,7 +709,7 @@
    "preview": "previews/pastel/pastel_milk_tea_03.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Milk Tea \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Milk Tea — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -744,7 +744,7 @@
    "preview": "previews/pastel/pastel_cloud_nine_03.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Cloud Nine \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cloud Nine — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -779,7 +779,7 @@
    "preview": "previews/pastel/pastel_petal_03.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Petal \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Petal — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -814,7 +814,7 @@
    "preview": "previews/pastel/pastel_marshmallow_03.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Marshmallow \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Marshmallow — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -849,7 +849,7 @@
    "preview": "previews/pastel/pastel_cotton_candy_04.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Cotton Candy \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cotton Candy — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -884,7 +884,7 @@
    "preview": "previews/pastel/pastel_daydream_04.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Daydream \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Daydream — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -919,7 +919,7 @@
    "preview": "previews/pastel/pastel_soft_serve_04.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Soft Serve \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Soft Serve — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -954,7 +954,7 @@
    "preview": "previews/pastel/pastel_blush_04.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Blush \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blush — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -989,7 +989,7 @@
    "preview": "previews/pastel/pastel_milk_tea_04.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Milk Tea \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Milk Tea — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1024,7 +1024,7 @@
    "preview": "previews/pastel/pastel_cloud_nine_04.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Cloud Nine \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cloud Nine — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1059,7 +1059,7 @@
    "preview": "previews/pastel/pastel_petal_04.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Petal \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Petal — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1094,7 +1094,7 @@
    "preview": "previews/pastel/pastel_marshmallow_04.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Marshmallow \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Marshmallow — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1129,7 +1129,7 @@
    "preview": "previews/pastel/pastel_cotton_candy_05.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Cotton Candy \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cotton Candy — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1164,7 +1164,7 @@
    "preview": "previews/pastel/pastel_daydream_05.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Daydream \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Daydream — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1199,7 +1199,7 @@
    "preview": "previews/pastel/pastel_soft_serve_05.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Soft Serve \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Soft Serve — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1234,7 +1234,7 @@
    "preview": "previews/pastel/pastel_blush_05.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Blush \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blush — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1269,7 +1269,7 @@
    "preview": "previews/pastel/pastel_milk_tea_05.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Milk Tea \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Milk Tea — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1304,7 +1304,7 @@
    "preview": "previews/pastel/pastel_cloud_nine_05.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Cloud Nine \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cloud Nine — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1339,7 +1339,7 @@
    "preview": "previews/pastel/pastel_petal_05.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Petal \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Petal — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1374,7 +1374,7 @@
    "preview": "previews/pastel/pastel_marshmallow_05.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Marshmallow \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Marshmallow — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1409,7 +1409,7 @@
    "preview": "previews/pastel/pastel_cotton_candy_06.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Cotton Candy \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cotton Candy — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1444,7 +1444,7 @@
    "preview": "previews/pastel/pastel_daydream_06.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Daydream \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Daydream — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1479,7 +1479,7 @@
    "preview": "previews/pastel/pastel_soft_serve_06.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Soft Serve \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Soft Serve — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1514,7 +1514,7 @@
    "preview": "previews/pastel/pastel_blush_06.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Blush \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Blush — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1549,7 +1549,7 @@
    "preview": "previews/pastel/pastel_milk_tea_06.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Milk Tea \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Milk Tea — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1584,7 +1584,7 @@
    "preview": "previews/pastel/pastel_cloud_nine_06.jpg",
    "category": "pastel",
    "subcategory": "warm",
-   "description": "Cloud Nine \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cloud Nine — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1619,7 +1619,7 @@
    "preview": "previews/pastel/pastel_petal_06.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Petal \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Petal — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1654,7 +1654,7 @@
    "preview": "previews/pastel/pastel_marshmallow_06.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Marshmallow \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Marshmallow — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1689,7 +1689,7 @@
    "preview": "previews/pastel/pastel_cotton_candy_07.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Cotton Candy \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Cotton Candy — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",
@@ -1724,7 +1724,7 @@
    "preview": "previews/pastel/pastel_daydream_07.jpg",
    "category": "pastel",
    "subcategory": "neutral",
-   "description": "Daydream \u2014 a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Daydream — a pastel color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "aesthetic",
     "airy",

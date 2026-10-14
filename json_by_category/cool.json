@@ -1,6 +1,6 @@
 {
  "category": "cool",
- "base_url": "https://YOUR_HOST.com/luts/",
+ "base_url": "https://raw.githubusercontent.com/Mob884/lut_library_500_v2/master/",
  "presets": [
   {
    "id": "cool_001",
@@ -9,7 +9,7 @@
    "preview": "previews/cool/cool_arctic_01.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Arctic \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Arctic — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "arctic",
     "blue",
@@ -43,7 +43,7 @@
    "preview": "previews/cool/cool_glacier_01.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Glacier \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Glacier — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -77,7 +77,7 @@
    "preview": "previews/cool/cool_steel_blue_01.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Steel Blue \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Steel Blue — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -111,7 +111,7 @@
    "preview": "previews/cool/cool_winter_morning_01.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Winter Morning \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Winter Morning — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -145,7 +145,7 @@
    "preview": "previews/cool/cool_deep_freeze_01.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Deep Freeze \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Deep Freeze — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -179,7 +179,7 @@
    "preview": "previews/cool/cool_ice_bath_01.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Ice Bath \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ice Bath — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -213,7 +213,7 @@
    "preview": "previews/cool/cool_frost_01.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Frost \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Frost — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -247,7 +247,7 @@
    "preview": "previews/cool/cool_clear_sky_01.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Clear Sky \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Clear Sky — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -281,7 +281,7 @@
    "preview": "previews/cool/cool_arctic_02.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Arctic \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Arctic — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "arctic",
     "blue",
@@ -315,7 +315,7 @@
    "preview": "previews/cool/cool_glacier_02.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Glacier \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Glacier — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -349,7 +349,7 @@
    "preview": "previews/cool/cool_steel_blue_02.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Steel Blue \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Steel Blue — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -383,7 +383,7 @@
    "preview": "previews/cool/cool_winter_morning_02.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Winter Morning \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Winter Morning — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -417,7 +417,7 @@
    "preview": "previews/cool/cool_deep_freeze_02.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Deep Freeze \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Deep Freeze — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -451,7 +451,7 @@
    "preview": "previews/cool/cool_ice_bath_02.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Ice Bath \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ice Bath — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -485,7 +485,7 @@
    "preview": "previews/cool/cool_frost_02.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Frost \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Frost — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -519,7 +519,7 @@
    "preview": "previews/cool/cool_clear_sky_02.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Clear Sky \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Clear Sky — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -553,7 +553,7 @@
    "preview": "previews/cool/cool_arctic_03.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Arctic \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Arctic — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "arctic",
     "blue",
@@ -587,7 +587,7 @@
    "preview": "previews/cool/cool_glacier_03.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Glacier \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Glacier — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -621,7 +621,7 @@
    "preview": "previews/cool/cool_steel_blue_03.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Steel Blue \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Steel Blue — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -655,7 +655,7 @@
    "preview": "previews/cool/cool_winter_morning_03.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Winter Morning \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Winter Morning — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -689,7 +689,7 @@
    "preview": "previews/cool/cool_deep_freeze_03.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Deep Freeze \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Deep Freeze — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -723,7 +723,7 @@
    "preview": "previews/cool/cool_ice_bath_03.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Ice Bath \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ice Bath — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -757,7 +757,7 @@
    "preview": "previews/cool/cool_frost_03.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Frost \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Frost — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -791,7 +791,7 @@
    "preview": "previews/cool/cool_clear_sky_03.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Clear Sky \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Clear Sky — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -825,7 +825,7 @@
    "preview": "previews/cool/cool_arctic_04.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Arctic \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Arctic — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "arctic",
     "blue",
@@ -859,7 +859,7 @@
    "preview": "previews/cool/cool_glacier_04.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Glacier \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Glacier — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -893,7 +893,7 @@
    "preview": "previews/cool/cool_steel_blue_04.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Steel Blue \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Steel Blue — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -927,7 +927,7 @@
    "preview": "previews/cool/cool_winter_morning_04.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Winter Morning \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Winter Morning — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -961,7 +961,7 @@
    "preview": "previews/cool/cool_deep_freeze_04.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Deep Freeze \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Deep Freeze — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -995,7 +995,7 @@
    "preview": "previews/cool/cool_ice_bath_04.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Ice Bath \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ice Bath — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1029,7 +1029,7 @@
    "preview": "previews/cool/cool_frost_04.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Frost \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Frost — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1063,7 +1063,7 @@
    "preview": "previews/cool/cool_clear_sky_04.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Clear Sky \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Clear Sky — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1097,7 +1097,7 @@
    "preview": "previews/cool/cool_arctic_05.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Arctic \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Arctic — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "arctic",
     "blue",
@@ -1131,7 +1131,7 @@
    "preview": "previews/cool/cool_glacier_05.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Glacier \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Glacier — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1165,7 +1165,7 @@
    "preview": "previews/cool/cool_steel_blue_05.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Steel Blue \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Steel Blue — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1199,7 +1199,7 @@
    "preview": "previews/cool/cool_winter_morning_05.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Winter Morning \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Winter Morning — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1233,7 +1233,7 @@
    "preview": "previews/cool/cool_deep_freeze_05.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Deep Freeze \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Deep Freeze — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1267,7 +1267,7 @@
    "preview": "previews/cool/cool_ice_bath_05.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Ice Bath \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ice Bath — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1301,7 +1301,7 @@
    "preview": "previews/cool/cool_frost_05.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Frost \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Frost — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1335,7 +1335,7 @@
    "preview": "previews/cool/cool_clear_sky_05.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Clear Sky \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Clear Sky — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1369,7 +1369,7 @@
    "preview": "previews/cool/cool_arctic_06.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Arctic \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Arctic — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "arctic",
     "blue",
@@ -1403,7 +1403,7 @@
    "preview": "previews/cool/cool_glacier_06.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Glacier \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Glacier — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1437,7 +1437,7 @@
    "preview": "previews/cool/cool_steel_blue_06.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Steel Blue \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Steel Blue — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1471,7 +1471,7 @@
    "preview": "previews/cool/cool_winter_morning_06.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Winter Morning \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Winter Morning — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1505,7 +1505,7 @@
    "preview": "previews/cool/cool_deep_freeze_06.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Deep Freeze \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Deep Freeze — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1539,7 +1539,7 @@
    "preview": "previews/cool/cool_ice_bath_06.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Ice Bath \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Ice Bath — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1573,7 +1573,7 @@
    "preview": "previews/cool/cool_frost_06.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Frost \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Frost — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1607,7 +1607,7 @@
    "preview": "previews/cool/cool_clear_sky_06.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Clear Sky \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Clear Sky — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
@@ -1641,7 +1641,7 @@
    "preview": "previews/cool/cool_arctic_07.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Arctic \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Arctic — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "arctic",
     "blue",
@@ -1675,7 +1675,7 @@
    "preview": "previews/cool/cool_glacier_07.jpg",
    "category": "cool",
    "subcategory": "cool",
-   "description": "Glacier \u2014 a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
+   "description": "Glacier — a cool color grade (color). One-tap cinematic color for reels, vlogs and photos.",
    "tags": [
     "blue",
     "clean",
